@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276921548832",
+    "project_id": "login-49e75",
+    "storage_bucket": "login-49e75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276921548832:android:ebd65761cfe7c2be1abc45",
+        "android_client_info": {
+          "package_name": "com.example.hoja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh6B0h_I6sqyLzLzQeH5uHN6zGs46YyGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
